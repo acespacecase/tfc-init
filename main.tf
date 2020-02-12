@@ -1,5 +1,5 @@
 provider "tfe" {
-    hostname = "tfe-zone-4d25b239.ngrok.io"
+    hostname = "app.terraform.io"
 }
 
 resource "tfe_organization" "stacy_provider_vartest" {
